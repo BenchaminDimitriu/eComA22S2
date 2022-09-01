@@ -49,6 +49,7 @@ class App{
 			unset($url[2]);
 		}
 
+//ALL THE WORK IS DONE HERE TO CALL THE METHOD AND PARAMETER
 		// ... while passing all other parts as argument
 		// repackage the parameters
 
